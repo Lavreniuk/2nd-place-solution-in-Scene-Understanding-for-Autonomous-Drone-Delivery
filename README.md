@@ -9,6 +9,9 @@ This dataset contains birdseye-view greyscale images taken between 5 m and 25 m 
 For Semantic segmentation we used model soup with [Mask2Former+ViT-Adapter-L](https://github.com/czczup/ViT-Adapter/tree/main/segmentation) pretrained on ADE20K.   
 For Mono-depth estimation we used model soup with [ZoeDepth](https://github.com/isl-org/ZoeDepth) pretrained on NYU Depth v2.
 
+## News
+- `2023/07/18`: 🚀 Developer of [ViT-Adapter](https://github.com/czczup/ViT-Adapter/tree/main#awesome-competition-solutions-with-vit-adapter) added information about our winning solution using ViT-Adapter
+
 ## About the Scene Understanding for Autonomous Drone Delivery Challenge
 
 Unmanned Aircraft Systems (UAS) have various applications, such as environmental  studies, emergency responses or package delivery. The safe operation of fully autonomous  UAS requires robust perception systems. 
