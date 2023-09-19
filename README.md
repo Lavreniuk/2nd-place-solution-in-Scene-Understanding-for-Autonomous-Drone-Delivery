@@ -10,6 +10,7 @@ For Semantic segmentation we used model soup with [Mask2Former+ViT-Adapter-L](ht
 For Mono-depth estimation we used model soup with [ZoeDepth](https://github.com/isl-org/ZoeDepth) pretrained on NYU Depth v2.
 
 ## News
+- `2023/09/19`: 🚀🚀 We have presented our solution on [DAGM German Conference on Pattern Recognition](https://edellano.github.io/suadd_workshop/program.html)
 - `2023/07/18`: 🚀 Developer of [ViT-Adapter](https://github.com/czczup/ViT-Adapter/tree/main#awesome-competition-solutions-with-vit-adapter) added information about our winning solution using ViT-Adapter
 
 ## About the Scene Understanding for Autonomous Drone Delivery Challenge
